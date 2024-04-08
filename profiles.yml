@@ -1,0 +1,14 @@
+
+test_proc:
+  outputs:
+    dev:
+      account: https://oe13380.ap-southeast-1.snowflakecomputing.com
+      database: Test_Snowflake
+      password: Erding!1
+      role: ACCOUNTADMIN
+      schema: Schema1
+      threads: 1
+      type: snowflake
+      user: ANBARASURAM
+      warehouse: COMPUTE_WH
+  target: dev
