@@ -1,0 +1,6 @@
+sources:
+  - name: SCHEMA1
+    database: TEST_SNOWFLAKE
+    schema: SCHEMA1
+    tables:
+      - name: TEST_TABLE
